@@ -1,0 +1,12 @@
+langchain_groq
+langchain_core
+langchain_community
+langchain_pinecone
+langchain
+streamlit
+fastapi
+uvicorn
+dotenv
+pydantic
+Pinecone
+sentence-transformers
